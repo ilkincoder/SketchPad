@@ -1,11 +1,12 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 320px; /* Adjust this value as needed */
+    width: 640px; /* Adjust value if needed */
 }
 .grid-item {
     box-sizing: border-box;
     width: 20px;
     height: 20px;
     border: 1px solid black;
+    transition: backgorund-color 0.3 ease; /*For Smooth Transition*/
 }
