@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 640px; /* Adjust value if needed */
+    width: 1280px; /* Adjust value if needed */
 }
 .grid-item {
     box-sizing: border-box;
